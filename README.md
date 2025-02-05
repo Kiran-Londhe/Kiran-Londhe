@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://cdn.pixabay.com/photo/2022/07/08/05/38/freelance-work-7308505_1280.png" />
+  <img src="https://cdn.pixabay.com/photo/2022/07/08/05/38/freelance-work-7308505_1280.png" alt="Freelance Work" />
 </div>
 
 
