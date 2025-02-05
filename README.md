@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="165" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40horizons%2Fsoftware-engineer-freedom-and-flexibility-4bcd79e89d41&psig=AOvVaw2scM9v_meSv2pvBU66t6pG&ust=1738819622251000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLCIw63-q4sDFQAAAAAdAAAAABAZ" alt = "hkjh"/>
+  <img height="165" src="freelance-work-7308505_1280.png" alt = "hkjh"/>
 </div>
 
 ###
