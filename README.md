@@ -1,6 +1,8 @@
 <div align="center">
-  <img height="165" src="https://avatars.githubusercontent.com/u/133089875?v=4"  />
+  <img height="165" src="https://avatars.githubusercontent.com/u/133089875?v=4" />
+  <img src="freelance-work-7308505_1280.jpg" alt="Freelance Work" />
 </div>
+
 
 ###
 
