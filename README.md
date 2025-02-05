@@ -2,12 +2,6 @@
   <img height="165" src="https://avatars.githubusercontent.com/u/133089875?v=4" />
 </div>
 
-<div align="center">
-  <img src="https://cdn.pixabay.com/photo/2022/07/08/05/38/freelance-work-7308505_1280.png" alt="Freelance Work" />
-</div>
-
-
-
 ###
 
 <div align="center"><a href="https://www.linkedin.com/in/kiranlondhe1604/" target="_blank">
