@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">I'm Software Developer <br><br>- 🔭 I’m working as Software Developer Intern<br>- 📚 I'm currently learning Java Fullstack development<br>- ⚡ In my free time i started to make my Own Portfolio</p>
+<p align="left">I'm Software Developer <br><br>- 🔭 I’m working as Software Developer<br>- 📚 I'm Java Fullstack Developer<br></p>
 
 ###
 
