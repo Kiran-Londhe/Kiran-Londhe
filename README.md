@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">I'm Software Developer <br><br>- 🔭 I’m working as Software Developer<br>- 📚 I'm Java Fullstack Developer<br></p>
+<p align="left">I’m a passionate Java Fullstack Developer with hands-on experience building robust and scalable applications.<br><br>- 🔭 Currently crafting innovative software solutions as a professional developer.<br>- 📚 Always learning and exploring new technologies to sharpen my skills and stay ahead in the tech world.<br></p>
 
 ###
 
